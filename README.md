@@ -6,4 +6,4 @@
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-navbar-code-along' title='Bootstrap Navbar Code-Along'>Bootstrap Navbar Code-Along</a> on Learn.co and start learning to code for free.</p>
 
-<p>PJ Frias - Followed along in separate file.</p>
+<p>PJ Frias - Followed along in separate file</p>
